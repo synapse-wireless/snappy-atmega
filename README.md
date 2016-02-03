@@ -15,7 +15,7 @@ By default, this is located at `...\Documents\Portal\snappyImages` on Windows.
 
 The easiest way to install `pyduinoincludes` for use with SNAPbuild is using [pip](https://pip.pypa.io/en/latest/installing.html):
 
-    pip install git+ssh://git@github.com:synapse-wireless/snappy-atmega.git@master
+    pip install git+https://github.com/synapse-wireless/snappy-atmega.git@master
 
 Alternatively you can download the source, extract it, and install it:
 
