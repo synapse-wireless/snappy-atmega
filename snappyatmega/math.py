@@ -39,7 +39,7 @@ def itos2(integer1, integer2):
 
 def stoi(binstring):
     """Convert math_library 32-bit number to SNAPpy 2-byte integer (truncates upper 2 bytes)"""
-    return ord(binstring[2])<<8) | ord(binstring[3]
+    return (ord(binstring[2]) << 8) | ord(binstring[3])
 
 
 def add_32(val1, val2):
