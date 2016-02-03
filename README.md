@@ -1,3 +1,5 @@
+![](https://cloud.githubusercontent.com/assets/1317406/12406044/32cd9916-be0f-11e5-9b18-1547f284f878.png)
+
 # Advanced SNAPpy Includes for the atmega128rfa1
 
 `snappyatmega` is a SNAPpy library that extends the functionality of Synapse SNAP modules that utilize the atmega128rfa1.
