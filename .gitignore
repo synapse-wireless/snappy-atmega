@@ -1,8 +1,8 @@
-PyduinoIncludes/_version.py
+_version.py
 build/
 dist/
 env/
-pyduino_includes.egg-info/
+*.egg-info/
 version.txt
 
 *.pyc
