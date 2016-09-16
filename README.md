@@ -41,3 +41,5 @@ from snappyatmega.sensors import *
 ## License
 
 Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
+
+<!-- meta-tags: vvv-rtc, vvv-timer, vvv-sm220, vvv-sm200, vvv-rf200, vvv-rf220, vvv-atmega, vvv-math, vvv-snappy, vvv-library -->
