@@ -37,3 +37,7 @@ from snappyatmega.rtc import *
 from snappyatmega.timers import *
 from snappyatmega.sensors import *
 ```
+
+## License
+
+Copyright © 2016 [Synapse Wireless](http://www.synapse-wireless.com/), licensed under the [Apache License v2.0](LICENSE.md).
